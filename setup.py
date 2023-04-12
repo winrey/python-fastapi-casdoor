@@ -8,6 +8,7 @@ setup(
     version="0.1.1",
     python_requires='>=3.10.0',
     license="MIT Licence",
+    long_description="Integration Casdoor with FastAPI",
  
     url="https://github.com/winrey/python-fastapi-casdoor",
     author="winrey",
