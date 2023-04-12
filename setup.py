@@ -5,8 +5,8 @@ from setuptools import setup, find_packages
  
 setup(
     name="fastapi-casdoor",
-    version="0.1.1",
-    python_requires='>=3.10.0',
+    version="0.1.2",
+    python_requires='>=3.10',
     license="MIT Licence",
     long_description="Integration Casdoor with FastAPI",
  
