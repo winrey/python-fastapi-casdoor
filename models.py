@@ -1,7 +1,7 @@
 from datetime import datetime
 from pydantic import BaseModel
 
-from app.vender.casdoor.utils import str2datetime
+from .utils import str2datetime
 
 
 class User(BaseModel):
